@@ -29,7 +29,8 @@ A web browser for running the application.
 Clone the repository to your web server directory:
 
 shell
-Copy code
+Copy code - 
+
 git clone https://github.com/Bhargav-1009/online-voting-system.git
 
 Start your web server.
