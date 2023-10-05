@@ -25,7 +25,8 @@ Before you begin, ensure you have met the following requirements:
 Web server (e.g., Apache) with PHP support.
 MySQL database server.
 A web browser for running the application.
-#Installation
+
+# Installation
 Clone the repository to your web server directory:
 
 shell
