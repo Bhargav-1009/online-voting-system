@@ -43,7 +43,6 @@ User Registration:
 Users can create accounts by providing their details.
 
 Candidate Registration:
-Admin can add candidates for various positions.
 Candidates must be associated with a specific election.
 
 Voting:
@@ -52,11 +51,7 @@ Users can vote only once per election.
 
 Results:
 View election results once the voting period has ended.
-Results are displayed in a tabular format.
 
-Admin Panel:
-Admin can manage candidates and view election results.
-Admin has the authority to approve user registrations.
 
 # Contributing
 Contributions are welcome! Feel free to open issues or pull requests to improve this project.
